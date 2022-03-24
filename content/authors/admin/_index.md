@@ -70,3 +70,4 @@ My research focuses on understanding electronic and quantum properties of 2D sys
 I am also interested in first principles calculations of novel quantum phenomena in Condensed Matters.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+
