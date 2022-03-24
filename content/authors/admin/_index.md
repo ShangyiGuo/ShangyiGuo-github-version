@@ -64,8 +64,8 @@ email: ""
 highlight_name: true
 ---
 
-I am an undergraduate student in SDU, keening on Condensed Matter Physics. My research focuses on understanding electronic and quantum properties of 2D systems by nano-device fabrication and electronic transport measurements and controllable synthesis and performance investigation of III-V nanowires semiconductor nanostructures for optoelectronic device applications.
+Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
-I am also interested in first principles calculations of novel quantum phenomena in Condensed Matters.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
